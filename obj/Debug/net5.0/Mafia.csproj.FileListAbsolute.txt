@@ -1,0 +1,16 @@
+C:\Users\Thomas\Code\C#\Mafia\bin\Debug\net5.0\Mafia.exe
+C:\Users\Thomas\Code\C#\Mafia\bin\Debug\net5.0\Mafia.deps.json
+C:\Users\Thomas\Code\C#\Mafia\bin\Debug\net5.0\Mafia.runtimeconfig.json
+C:\Users\Thomas\Code\C#\Mafia\bin\Debug\net5.0\Mafia.runtimeconfig.dev.json
+C:\Users\Thomas\Code\C#\Mafia\bin\Debug\net5.0\Mafia.dll
+C:\Users\Thomas\Code\C#\Mafia\bin\Debug\net5.0\ref\Mafia.dll
+C:\Users\Thomas\Code\C#\Mafia\bin\Debug\net5.0\Mafia.pdb
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\Mafia.csproj.AssemblyReference.cache
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\Mafia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\Mafia.AssemblyInfoInputs.cache
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\Mafia.AssemblyInfo.cs
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\Mafia.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\Mafia.dll
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\ref\Mafia.dll
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\Mafia.pdb
+C:\Users\Thomas\Code\C#\Mafia\obj\Debug\net5.0\Mafia.genruntimeconfig.cache
