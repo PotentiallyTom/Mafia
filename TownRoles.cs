@@ -44,7 +44,20 @@ namespace townie
                 //kill himself
                 return "You could not live with the guilt";
             }
-            else if ()
+            if (bulletsLeft == 0)
+            {
+                return "You have no more bullets";
+            }
+            else if (targets[0].playerRole.defense < this.attack)
+            {
+                this.bulletsLeft -= 1;
+                targets[0].die();
+                return "You have shot your target";
+            }
+            else
+            {
+                return "Your target was too strong";
+            }
             
         }
     }

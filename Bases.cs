@@ -32,9 +32,15 @@ abstract class Role
 class Player
 {
     public Role playerRole;
+    public bool isAlive;
     public Player()
     {
-
+        this.isAlive = true;
+    }
+    public string die()
+    {
+        isAlive = false;
+        return "You have died";
     }
 }
 
