@@ -23,6 +23,11 @@ namespace mafia
                 return "Your target was too strong";
             }
         }
+        public override string DayAction(Player[] targets)
+        {
+            //Gets promoted
+            throw new Exception("Not implemeted");
+        }
         
     }
 }
