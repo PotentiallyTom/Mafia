@@ -29,7 +29,6 @@ namespace townie
     {
         bool hasKilledTownie = false;
         int bulletsLeft = 3;
-
         public vigilante()
         {
             this.roleName = "Vigilante";
